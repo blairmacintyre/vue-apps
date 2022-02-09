@@ -3,7 +3,7 @@
 
 // export default [
 //   hubsTest1,
-//   hubsTest2
+//   hubsTest2 
 // ];
 import replace from '@rollup/plugin-replace'
 import vue from 'rollup-plugin-vue'
