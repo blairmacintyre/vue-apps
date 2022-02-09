@@ -5,7 +5,7 @@ name: Build and Deploy
 
 on:
   push:
-    branches: [ update-for-311 ]
+    branches: [ update-for-three311 ]
 
 jobs:
   build-and-deploy:
